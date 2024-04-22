@@ -10,5 +10,3 @@ Tento Python skript slouží k převodu normálního textu na text s prefixy pod
 Script byl vytvořen jako pomocník při převodu textu pro práci s Braillovým písmem v grafickém editoru, který využívá prefixy.
 
 Pro práci byly řešeny jen prefixy pro číslo a pro velké písmeno, protože ostatní nebudou využívány. Přehled pravidel můžete najít na: [www.tyflokabinet-cb.cz/braill.htm](https://www.tyflokabinet-cb.cz/braill.htm)
-
-![image.png](attachment:image.png)
